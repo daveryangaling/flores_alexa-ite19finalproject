@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734236720 source:c:\users\mark sena\desktop\romantodecimaltowords\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
